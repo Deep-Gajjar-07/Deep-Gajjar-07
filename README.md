@@ -1,15 +1,17 @@
-## hello, I'm Deep 👋
+# Hello, I'm Deep 👋
 
-## 🚀Skills
-- Android Development (XML, Kotlin)
-- Python
-- Kotlin
-- Django Backend
-- HTML & CSS
-- SQLite, MySQL
-- Git, GitHub
+I'm a **BCA student** with a interest in **Android app development** and **backend technologies**.  
+I enjoy building simple, practical projects and continuously improving my skills.
 
-## What I'm Learning 
+## 🛠 Skills
+
+- **Programming Languages**: Python, Kotlin
+- **Android Development**: Kotlin, XML
+- **Backend**: Python, Django (Basics)  
+- **Database**: SQLite, MySQL  
+- **Tools**: Git, GitHub, VS Code
+
+## What I'm Currently Learning 
 - Android architecture
 - Backend Technologies & Systems
-
+- Improving UI/UX in Mobile Apps
