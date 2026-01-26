@@ -11,7 +11,7 @@ I enjoy building simple, practical projects and continuously improving my skills
 - **Database**: SQLite, MySQL  
 - **Tools**: Git, GitHub, VS Code
 
-## What I'm Currently Learning 
+## 📖 What I'm Currently Learning 
 - Android architecture
 - Backend Technologies & Systems
 - Improving UI/UX in Mobile Apps
