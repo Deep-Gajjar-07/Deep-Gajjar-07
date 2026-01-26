@@ -1,16 +1,15 @@
-## Hi there 👋
+## hello, I'm Deep 👋
 
-<!--
-**Deep-Gajjar-07/Deep-Gajjar-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀Skills
+- Android Development (XML, Kotlin)
+- Python
+- Kotlin
+- Django Backend
+- HTML & CSS
+- SQLite, MySQL
+- Git, GitHub
 
-Here are some ideas to get you started:
+## What I'm Learning 
+- Android architecture
+- Backend Technologies & Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
