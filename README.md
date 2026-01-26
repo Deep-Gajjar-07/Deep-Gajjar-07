@@ -11,12 +11,7 @@ I enjoy building simple, practical projects and continuously improving my skills
 - **Database**: SQLite, MySQL  
 - **Tools**: Git, GitHub, VS Code
 
-## 📖 What I'm Currently Learning 
+## 📖 Currently Learning 
 - Android architecture
 - Backend Technologies & Systems
 - Improving UI/UX in Mobile Apps
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deep-Gajjar-07&show_icons=true&theme=gotham&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deep-Gajjar-07&layout=compact&theme=gotham)
