@@ -3,7 +3,7 @@
 I'm a **BCA student** with a interest in **Android app development** and **backend technologies**.  
 I enjoy building simple, practical projects and continuously improving my skills.
 
-## 🛠 Skills
+## 🛠 Tech Stack
 
 - **Programming Languages**: Python, Kotlin
 - **Android Development**: Kotlin, XML
