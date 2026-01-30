@@ -1,7 +1,5 @@
 # Hello, I'm Deep 👋
-
-I'm a **BCA student** with a interest in **Android app development** and **backend technologies**.  
-I enjoy building simple, practical projects and continuously improving my skills.
+`Student • Building Android Apps • Python & Django Backend Development` 
 
 ## 🛠 Tech Stack
 
