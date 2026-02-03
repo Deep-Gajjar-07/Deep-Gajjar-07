@@ -4,9 +4,9 @@
 ## 🛠 Tech Stack
 
 - **Programming Languages**: Python, Kotlin
-- **Android Development**: Kotlin, XML
+- **Android Development**: Android Studio, Kotlin, XML
 - **Backend**: Python, Django (Basics)  
-- **Database**: SQLite, MySQL  
+- **Databases**: SQLite, MySQL  
 - **Tools**: Git, GitHub, VS Code
 
 ## 📖 Currently Learning 
