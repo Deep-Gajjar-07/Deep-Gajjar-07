@@ -10,8 +10,3 @@
 - **Backend**: Python, Django (Basics)  
 - **Databases**: SQLite, MySQL  
 - **Tools**: Git, GitHub, VS Code
-
-## 📖 Currently Learning 
-- Android architecture
-- Backend Technologies & Systems
-- Improving UI/UX in Mobile Apps
